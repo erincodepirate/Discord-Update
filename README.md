@@ -1,4 +1,4 @@
-Original by [Blacktea1501](github.com/Blacktea1501)
+Original by [Blacktea1501](https://github.com/Blacktea1501)
 
 # Discord Updater
 Downloads and install the latest Discord version for Linux.
