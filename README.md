@@ -1,4 +1,5 @@
 Original by [Blacktea1501](https://github.com/Blacktea1501)
+
 Based on the version by [Pantonius](https://github.com/Pantonius)
 
 # Discord Updater
